@@ -10,8 +10,8 @@ class App1 extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(title: Text('Flutter App 1')),
-        body: Center(child: Text('Hello from App 1!')),
+        appBar: AppBar(title: Text('Flutter App 1 firoz')),
+        body: Center(child: Text('Hello from App 1! firoz')),
       ),
     );
   }
